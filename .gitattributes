@@ -1,0 +1,24 @@
+# Text files
+* text=auto
+*.md text eol=lf
+*.m text eol=lf
+*.xml text eol=lf
+*.prj text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+LICENSE text eol=lf
+
+# MATLAB / Simulink data must not undergo line-ending conversion or text merging.
+*.slx binary
+*.slreqx binary
+*.slmx binary
+*.sldd binary
+*.mldatx binary
+*.mat binary
+*.mdzip binary
+
+# Exercise documents and images
+*.pptx binary
+*.pdf binary
+*.jpg binary
+*.png binary

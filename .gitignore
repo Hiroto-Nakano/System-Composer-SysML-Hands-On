@@ -1,0 +1,22 @@
+# Local preparation notes, backups, and validation copies
+/.local-only/
+
+# MATLAB editor / Simulink temporary files
+*.asv
+*.autosave
+*.slxc
+slprj/
+sccprj/
+
+# Generated content (keep empty project folders available after cloning)
+**/Cache/*
+!**/Cache/.gitkeep
+**/CodeGen/*
+!**/CodeGen/.gitkeep
+derived/
+
+# Office / operating-system temporary files
+~$*
+Thumbs.db
+Desktop.ini
+.DS_Store
