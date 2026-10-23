@@ -2,7 +2,9 @@
 
 [日本語](README.md) | **English**
 
-**From importing and executing a SysML model to refining requirements through detailed design.**
+### From importing and executing a SysML model to refining requirements through detailed design.
+
+<img width="1122" height="1402" alt="ChatGPT 画像 2026年10月24日 03_30_48" src="https://github.com/user-attachments/assets/efb6418f-a8a1-4805-b950-1fc14e856307" />
 
 Using an electric throttle control system, you import the system architecture, run a model, and test its behavior against requirements. You then use the simulation results to identify a response issue, specify a detailed requirement, revise the design, and test again.
 
