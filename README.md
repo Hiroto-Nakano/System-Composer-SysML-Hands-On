@@ -45,7 +45,7 @@
 
 **詳細要求の追加後：既存のステップ応答テストはPass、単調応答テストはFail。**
 
-<img width="1442" height="833" alt="response-before-fail" src="https://github.com/user-attachments/assets/20096975-712c-477c-a843-ff1faf25fc99" />
+<img width="1442" height="833" alt="response-before-fail" src="https://github.com/user-attachments/assets/8d947a1d-3388-4d0e-9d63-b662e9230495" />
 
 画面左のテスト結果と、オレンジ色の応答波形を見比べてください。既存テストに合格した応答でも、追加した判定条件では赤いFail区間が現れます。
 
@@ -55,7 +55,7 @@ PIDコントローラのパラメータを変更してシミュレーション�
 
 **設計の見直し後：ステップ応答テストと単調応答テストの両方がPass。**
 
-<img width="1442" height="833" alt="response-after-pass" src="https://github.com/user-attachments/assets/29976690-e093-494c-900b-0b88a6434641" />
+<img width="1442" height="833" alt="response-after-pass" src="https://github.com/user-attachments/assets/819e4af8-061a-4bdb-994a-e14981b90232" />
 
 **演習2では、波形の観察から、詳細要求の追加、テストとの関連付け、設計変更、再検証までを自分で進めます。** 操作手順は[演習資料の4ページ](SystemComposer_exercise.pdf#page=4)、解答は5～6ページにあります。
 
