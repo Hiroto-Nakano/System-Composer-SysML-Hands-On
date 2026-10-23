@@ -45,10 +45,7 @@ In the Requirements Editor, add `3.1 Monotonic Response` beneath `3 Response`. L
 
 **After adding the detailed requirement: the existing step-response test passes, while the monotonic-response test fails.**
 
-[![After adding the detailed requirement: Test Manager shows the existing step-response test passing and the monotonic-response test failing when the response dips][before-response-image]][before-response-image]
-
-<!-- Replace BEFORE_IMAGE_URL with the GitHub attachment URL for the before (Fail) screenshot. -->
-[before-response-image]: BEFORE_IMAGE_URL
+[before-response-image]: https://github.com/user-attachments/assets/8d947a1d-3388-4d0e-9d63-b662e9230495
 
 Compare the test results on the left with the orange response waveform. Although the existing test passes, the added criterion produces the red Fail interval.
 
@@ -58,10 +55,7 @@ Change the PID controller parameters, run the simulation, and compare the wavefo
 
 **After revising the design: both the step-response test and the monotonic-response test pass.**
 
-[![After revising the design: the temporary response drop is suppressed and Test Manager shows both the step-response and monotonic-response tests passing][after-response-image]][after-response-image]
-
-<!-- Replace AFTER_IMAGE_URL with the GitHub attachment URL for the after (Pass) screenshot. -->
-[after-response-image]: AFTER_IMAGE_URL
+[after-response-image]: https://github.com/user-attachments/assets/819e4af8-061a-4bdb-994a-e14981b90232
 
 **In Exercise 2, you work through waveform inspection, requirement definition, test linking, design revision, and re-verification yourself.** Instructions are on [page 4 of the handout](SystemComposer_exercise_EN.pdf#page=4), with solutions on pages 5–6.
 
